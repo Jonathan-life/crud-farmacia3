@@ -1,7 +1,7 @@
 <?= $header; ?>
 
 <div class="container">
-  <h4>Welcome</h4>
+  <h4>Farmacia</h4>
 </div>
 
 <?= $footer; ?>

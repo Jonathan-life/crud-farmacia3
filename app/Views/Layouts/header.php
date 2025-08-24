@@ -25,15 +25,10 @@
         <li class="nav-item">
           <a class="nav-link" href="<?= base_url('productos'); ?>">Productos</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="<?= base_url('categorias'); ?>">Categorías</a>
-        </li>
-        <!-- Puedes agregar más secciones si deseas -->
       </ul>
     </div>
   </div>
 </nav>
-<!-- Fin Sección 1 -->
 
 <!-- Sección 2: Contenido principal -->
 <main class="container mt-4">
